@@ -1,0 +1,1 @@
+console.log("Am a JavaScript King")
